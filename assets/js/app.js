@@ -1,0 +1,1 @@
+// Lógica del buscador pendiente (Sprint 2)
